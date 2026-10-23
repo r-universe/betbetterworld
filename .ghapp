@@ -1,0 +1,10 @@
+{
+  "id": 174365721,
+  "created_at": "2026-10-23T05:08:42.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["betbetterworld.r-universe.dev"]
+}
