@@ -1,7 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/betbetterworld/betbetterworld.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "betbetter"]
-	path = betbetter
-	url = https://github.com/edushinka/betbetter-r
